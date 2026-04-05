@@ -1,4 +1,4 @@
-# Kode
+# Kode (Canceled! Use [this](https://github.com/MyMel2001/7coder) instead!)
 
 Your AI ~~script kiddie~~ coder.
 
