@@ -36,4 +36,4 @@ Once you have Kode set up, you can start coding with confidence. Simply launch K
 
 ## License
 
-Kode is licensed under The Samuel Public License Revision 5 (SPL-R5). Please see the [LICENSE](LICENSE) file for details.
+Kode is licensed under The Sammy Public License Revision 5 (SPL-R5). Please see the [LICENSE](LICENSE) file for details.
